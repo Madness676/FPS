@@ -94,7 +94,7 @@ if _G.Settings["Low Rendering"] or (_G.Settings.Other and _G.Settings.Other["Low
     settings().Rendering.QualityLevel = 1
 end
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "discord.gg/rips",
+    Title = "PandaExploits",
     Text = "Loading FPS Booster...",
     Duration = math.huge,
     Button1 = "Okay"
