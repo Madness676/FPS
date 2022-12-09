@@ -1,7 +1,7 @@
 -- don't judge :rage:
 local UserInputService = game:GetService("UserInputService")
 
-local Frame = script.Parent.fu8rj82n -- the name of ur frame // make sure the local scripts parent is "ScreenGui" or whatever
+local Frame = script.Parent.ScreenGui -- the name of ur frame // make sure the local scripts parent is "ScreenGui" or whatever
 
 --SCRIPT
 
